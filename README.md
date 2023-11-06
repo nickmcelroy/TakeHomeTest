@@ -3,7 +3,7 @@ This is a take home technical assessment from Hudl testing my ability to use sel
 
 The steps to run these files is as follows
     1. navigate to 'TakeHomeTest' file
-    2. sudo pip3 install selenium (only once)
+    2. sudo pip3 install selenium
     3. For each file use the following command to run test, 'python3 filename.py'
     4. The test will run and once it has run the terminal will prompt you to hit enter to finish the test and exit,
         this is because the driver was quitting on me before running the test so it is a little work around
